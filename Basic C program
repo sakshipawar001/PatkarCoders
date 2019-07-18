@@ -1,0 +1,11 @@
+#include<stdio.h>
+#include<conio.h>
+void main()
+{
+char s;
+printf("This is a basic C program.");
+printf("Please enter your name:");
+scanf("&s",s);
+printf("Welcome to Horizon 2019 !");
+getch();
+}
